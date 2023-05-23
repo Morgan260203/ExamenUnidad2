@@ -1,0 +1,4 @@
+Elemento{masaAtomica=14.0067, numeroAtomico=7, simbolo=N, nombre=Nitrogeno, color=Morado}
+Elemento{masaAtomica=58.933195, numeroAtomico=27, simbolo=Co, nombre=Cobalto, color=Amarillo}
+Elemento{masaAtomica=85.4678, numeroAtomico=37, simbolo=Rb, nombre=Rubidio, color=Naranja}
+Elemento{masaAtomica=107.87, numeroAtomico=47, simbolo=Ag, nombre=Plata, color=Amarillo}
